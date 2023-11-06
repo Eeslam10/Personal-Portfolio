@@ -1,0 +1,6 @@
+@media screen and (max-width: 500px) {
+    /* Styles for small screens */
+    .jumbotron  {
+        height: 800px;
+    }
+}
